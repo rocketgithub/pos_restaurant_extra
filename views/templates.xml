@@ -4,7 +4,7 @@
 
         <template id="assets" inherit_id="point_of_sale.assets">
             <xpath expr="." position="inside">
-                <script type="text/javascript" src="/pos_gt/static/src/js/pos_gt.js"></script>
+                <script type="text/javascript" src="/pos_restaurant_extra/static/src/js/pos_restaurant_extra.js"></script>
             </xpath>
         </template>
 
