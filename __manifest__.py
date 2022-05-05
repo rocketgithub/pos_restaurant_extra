@@ -12,7 +12,7 @@
     'website': 'http://aquih.com',
     'depends': ['pos_gt', 'pos_restaurant'],
     'data': [
-        'views/templates.xml',
+    #    'views/templates.xml',
     ],
     'qweb': [
     ],
